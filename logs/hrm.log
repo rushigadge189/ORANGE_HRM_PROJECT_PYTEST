@@ -1,56 +1,221 @@
- 2024-04-10 21:30:36,039 : Test_ohrmpro : INFO : 57 : test_login_002 : TEST CASE LOGIN_002 IS STARTED 
- 2024-04-10 21:30:36,039 : Test_ohrmpro : INFO : 59 : test_login_002 : OPENING THE BROWSER 
- 2024-04-10 21:30:36,039 : Test_ohrmpro : INFO : 61 : test_login_002 : MAXIMIZE THE WINDOW 
- 2024-04-10 21:30:36,040 : Test_ohrmpro : INFO : 67 : test_login_002 : NAVIGATING TO THE URL 
- 2024-04-10 21:30:36,145 : Test_Adddd_Emp : INFO : 25 : test_add_emp_003 : TEST CASE ADD_EMPL_003 IS STARTED 
- 2024-04-10 21:30:36,146 : Test_Adddd_Emp : INFO : 27 : test_add_emp_003 : OPENING THE BROWSER 
- 2024-04-10 21:30:36,146 : Test_Adddd_Emp : INFO : 29 : test_add_emp_003 : MAXIMIZING THE BROWSER 
- 2024-04-10 21:30:36,146 : Test_Adddd_Emp : INFO : 35 : test_add_emp_003 : NAVIGATING TO THE RESPECTED URL 
- 2024-04-10 21:30:36,211 : Test_searchch_empemp : INFO : 26 : test_search_emp_004 : TESTCASE TEST_SEARCH_EMP_004 IS STARTED 
- 2024-04-10 21:30:36,211 : Test_searchch_empemp : INFO : 28 : test_search_emp_004 : OPEN THE BROWSER 
- 2024-04-10 21:30:36,211 : Test_searchch_empemp : INFO : 30 : test_search_emp_004 : MAXI MIZE THE BROWSER 
- 2024-04-10 21:30:36,212 : Test_searchch_empemp : INFO : 36 : test_search_emp_004 : NAVIGATING TO THE URL 
- 2024-04-10 21:30:37,288 : Test_ohrmpro : INFO : 21 : test_page_title_001 : TEST CASE PAGE_TITLE_001 IS STARTED 
- 2024-04-10 21:30:37,288 : Test_ohrmpro : INFO : 23 : test_page_title_001 : MAXIMIZE THE BROWSER 
- 2024-04-10 21:30:37,288 : Test_ohrmpro : INFO : 29 : test_page_title_001 : NAVIGATING TO THE URL 
- 2024-04-10 21:30:40,092 : Test_ohrmpro : INFO : 70 : test_login_002 : ENTER THE USERNAME 
- 2024-04-10 21:30:40,092 : Test_ohrmpro : INFO : 71 : test_login_002 : USERNAME ENTERED= Admin 
- 2024-04-10 21:30:40,395 : Test_ohrmpro : INFO : 32 : test_page_title_001 : CHECKING THE TITLE OF THE PAGE 
- 2024-04-10 21:30:46,632 : Test_ohrmpro : INFO : 74 : test_login_002 : ENTER THE PASSWORD 
- 2024-04-10 21:30:46,632 : Test_ohrmpro : INFO : 75 : test_login_002 : PASSWORD ENTERED= admin123 
- 2024-04-10 21:30:46,765 : Test_ohrmpro : INFO : 78 : test_login_002 : CLICK ON THE LOGIN BUTTON 
- 2024-04-10 21:30:50,094 : Test_ohrmpro : INFO : 81 : test_login_002 : CHECKING FOR THE STATUS 
- 2024-04-10 21:30:51,033 : Test_ohrmpro : INFO : 33 : test_page_title_001 : TITLE OF THE PAGE= OrangeHRM 
- 2024-04-10 21:30:51,037 : Test_ohrmpro : INFO : 35 : test_page_title_001 : TAKING THE SCREENSHOT 
- 2024-04-10 21:30:51,397 : Test_ohrmpro : INFO : 40 : test_page_title_001 : CLOSING THE BROWSER 
- 2024-04-10 21:30:51,508 : Test_ohrmpro : INFO : 85 : test_login_002 : TAKING THE SCREENSHOT 
- 2024-04-10 21:30:51,577 : Test_ohrmpro : INFO : 53 : test_page_title_001 : TEST CASE PAGE_TITLE_001 IS COMPLETED 
- 2024-04-10 21:30:52,251 : Test_ohrmpro : INFO : 91 : test_login_002 : CLCIK ON THE MENU BUTTON 
- 2024-04-10 21:30:52,349 : Test_ohrmpro : INFO : 94 : test_login_002 : CLICK ON THE LOGOUT BUTTON 
- 2024-04-10 21:30:56,864 : Test_ohrmpro : INFO : 97 : test_login_002 : CLOSE THE BROWSER 
- 2024-04-10 21:30:56,989 : Test_ohrmpro : INFO : 113 : test_login_002 : TEST CASE LOGIN_002 IS COMPLETED 
- 2024-04-10 21:31:01,717 : Test_Adddd_Emp : INFO : 38 : test_add_emp_003 : ENTERING THE USERNAME 
- 2024-04-10 21:31:01,757 : Test_searchch_empemp : INFO : 39 : test_search_emp_004 : ENTERING THE USERNAME 
- 2024-04-10 21:31:01,824 : Test_Adddd_Emp : INFO : 41 : test_add_emp_003 : ENTERING THE PASSWORD 
- 2024-04-10 21:31:01,880 : Test_searchch_empemp : INFO : 42 : test_search_emp_004 : ENTERING THE PASSWORD 
- 2024-04-10 21:31:01,955 : Test_Adddd_Emp : INFO : 44 : test_add_emp_003 : CLICK ON THE LOGIN BUTTON 
- 2024-04-10 21:31:02,057 : Test_searchch_empemp : INFO : 45 : test_search_emp_004 : CLICK ON LOGIN BUTTON 
- 2024-04-10 21:31:02,226 : Test_searchch_empemp : INFO : 50 : test_search_emp_004 : CLCIK ONN THE PIM TAB 
- 2024-04-10 21:31:03,433 : Test_Adddd_Emp : INFO : 49 : test_add_emp_003 : CLICK ON THE PIM TAB 
- 2024-04-10 21:31:05,458 : Test_searchch_empemp : INFO : 55 : test_search_emp_004 : SEARCHIN FOR EMPLOYEE 
- 2024-04-10 21:31:05,911 : Test_Adddd_Emp : INFO : 52 : test_add_emp_003 : CLICk ON THE ADD BUTTON 
- 2024-04-10 21:31:06,256 : Test_searchch_empemp : INFO : 58 : test_search_emp_004 : CLCIK ON THE SEARCH BUTTON 
- 2024-04-10 21:31:07,440 : Test_Adddd_Emp : INFO : 55 : test_add_emp_003 : ENTERING FIRST NAME 
- 2024-04-10 21:31:07,963 : Test_Adddd_Emp : INFO : 58 : test_add_emp_003 : ENTERING MIDDLE NAME 
- 2024-04-10 21:31:08,036 : Test_Adddd_Emp : INFO : 61 : test_add_emp_003 : ENTERING THE LAST NAME 
- 2024-04-10 21:31:08,142 : Test_Adddd_Emp : INFO : 64 : test_add_emp_003 : DISPLAY EMPLOYEE ID 
- 2024-04-10 21:31:09,368 : Test_searchch_empemp : INFO : 65 : test_search_emp_004 : CHECKING FOR THE STATUS 
- 2024-04-10 21:31:09,561 : Test_searchch_empemp : INFO : 68 : test_search_emp_004 : DETAILS OF EMPLOYEE ARE PRINTED 
- 2024-04-10 21:31:09,562 : Test_searchch_empemp : INFO : 69 : test_search_emp_004 : TAKING THE SCREENSHOT 
- 2024-04-10 21:31:09,562 : Test_searchch_empemp : INFO : 70 : test_search_emp_004 : TEST CASE IS PASSED 
- 2024-04-10 21:31:09,705 : Test_searchch_empemp : INFO : 82 : test_search_emp_004 : TESTCASE TEST_SEARCH_EMP_004 IS COMPLETED 
- 2024-04-10 21:31:10,172 : Test_Adddd_Emp : INFO : 69 : test_add_emp_003 : UPLOAD THE DISPLAY PROFILE 
- 2024-04-10 21:31:20,258 : Test_Adddd_Emp : INFO : 73 : test_add_emp_003 : CLICK ON THE SAVE BUTTON 
- 2024-04-10 21:31:21,321 : Test_Adddd_Emp : INFO : 76 : test_add_emp_003 : CHECKING FOR THE SUCCESS MESSAGE STATUS 
- 2024-04-10 21:31:22,262 : Test_Adddd_Emp : INFO : 78 : test_add_emp_003 : TAKING SCREENSHOT 
- 2024-04-10 21:31:22,560 : Test_Adddd_Emp : INFO : 89 : test_add_emp_003 : TEST CASE ADD_EMP_003 IS COMPLETED 
+ 2024-04-10 21:53:31,389 : Test_Adddd_Emp : INFO : 25 : test_add_emp_003 : TEST CASE ADD_EMPL_003 IS STARTED 
+ 2024-04-10 21:53:31,389 : Test_Adddd_Emp : INFO : 27 : test_add_emp_003 : OPENING THE BROWSER 
+ 2024-04-10 21:53:31,390 : Test_Adddd_Emp : INFO : 29 : test_add_emp_003 : MAXIMIZING THE BROWSER 
+ 2024-04-10 21:53:31,390 : Test_Adddd_Emp : INFO : 35 : test_add_emp_003 : NAVIGATING TO THE RESPECTED URL 
+ 2024-04-10 21:53:31,576 : Test_ohrmpro : INFO : 21 : test_page_title_001 : TEST CASE PAGE_TITLE_001 IS STARTED 
+ 2024-04-10 21:53:31,577 : Test_ohrmpro : INFO : 23 : test_page_title_001 : MAXIMIZE THE BROWSER 
+ 2024-04-10 21:53:31,577 : Test_ohrmpro : INFO : 29 : test_page_title_001 : NAVIGATING TO THE URL 
+ 2024-04-10 21:53:31,730 : Test_ohrmpro : INFO : 57 : test_login_002 : TEST CASE LOGIN_002 IS STARTED 
+ 2024-04-10 21:53:31,730 : Test_ohrmpro : INFO : 59 : test_login_002 : OPENING THE BROWSER 
+ 2024-04-10 21:53:31,730 : Test_ohrmpro : INFO : 61 : test_login_002 : MAXIMIZE THE WINDOW 
+ 2024-04-10 21:53:31,731 : Test_ohrmpro : INFO : 67 : test_login_002 : NAVIGATING TO THE URL 
+ 2024-04-10 21:53:34,269 : Test_Adddd_Emp : INFO : 38 : test_add_emp_003 : ENTERING THE USERNAME 
+ 2024-04-10 21:53:41,121 : Test_Adddd_Emp : INFO : 41 : test_add_emp_003 : ENTERING THE PASSWORD 
+ 2024-04-10 21:53:41,770 : Test_Adddd_Emp : INFO : 44 : test_add_emp_003 : CLICK ON THE LOGIN BUTTON 
+ 2024-04-10 21:53:42,586 : Test_ohrmpro : INFO : 70 : test_login_002 : ENTER THE USERNAME 
+ 2024-04-10 21:53:42,586 : Test_ohrmpro : INFO : 71 : test_login_002 : USERNAME ENTERED= Admin 
+ 2024-04-10 21:53:42,620 : Test_ohrmpro : INFO : 32 : test_page_title_001 : CHECKING THE TITLE OF THE PAGE 
+ 2024-04-10 21:53:42,632 : Test_ohrmpro : INFO : 33 : test_page_title_001 : TITLE OF THE PAGE= OrangeHRM 
+ 2024-04-10 21:53:42,640 : Test_ohrmpro : INFO : 35 : test_page_title_001 : TAKING THE SCREENSHOT 
+ 2024-04-10 21:53:42,741 : Test_ohrmpro : INFO : 74 : test_login_002 : ENTER THE PASSWORD 
+ 2024-04-10 21:53:42,741 : Test_ohrmpro : INFO : 75 : test_login_002 : PASSWORD ENTERED= admin123 
+ 2024-04-10 21:53:42,865 : Test_ohrmpro : INFO : 78 : test_login_002 : CLICK ON THE LOGIN BUTTON 
+ 2024-04-10 21:53:43,007 : Test_ohrmpro : INFO : 40 : test_page_title_001 : CLOSING THE BROWSER 
+ 2024-04-10 21:53:43,103 : Test_ohrmpro : INFO : 53 : test_page_title_001 : TEST CASE PAGE_TITLE_001 IS COMPLETED 
+ 2024-04-10 21:53:43,403 : Test_Adddd_Emp : INFO : 49 : test_add_emp_003 : CLICK ON THE PIM TAB 
+ 2024-04-10 21:53:44,256 : Test_ohrmpro : INFO : 81 : test_login_002 : CHECKING FOR THE STATUS 
+ 2024-04-10 21:53:45,188 : Test_ohrmpro : INFO : 85 : test_login_002 : TAKING THE SCREENSHOT 
+ 2024-04-10 21:53:45,235 : Test_Adddd_Emp : INFO : 52 : test_add_emp_003 : CLICk ON THE ADD BUTTON 
+ 2024-04-10 21:53:46,006 : Test_ohrmpro : INFO : 91 : test_login_002 : CLCIK ON THE MENU BUTTON 
+ 2024-04-10 21:53:46,175 : Test_ohrmpro : INFO : 94 : test_login_002 : CLICK ON THE LOGOUT BUTTON 
+ 2024-04-10 21:53:46,771 : Test_Adddd_Emp : INFO : 55 : test_add_emp_003 : ENTERING FIRST NAME 
+ 2024-04-10 21:53:47,171 : Test_ohrmpro : INFO : 97 : test_login_002 : CLOSE THE BROWSER 
+ 2024-04-10 21:53:47,477 : Test_Adddd_Emp : INFO : 58 : test_add_emp_003 : ENTERING MIDDLE NAME 
+ 2024-04-10 21:53:47,505 : Test_ohrmpro : INFO : 113 : test_login_002 : TEST CASE LOGIN_002 IS COMPLETED 
+ 2024-04-10 21:53:47,625 : Test_Adddd_Emp : INFO : 61 : test_add_emp_003 : ENTERING THE LAST NAME 
+ 2024-04-10 21:53:47,750 : Test_Adddd_Emp : INFO : 64 : test_add_emp_003 : DISPLAY EMPLOYEE ID 
+ 2024-04-10 21:53:49,784 : Test_Adddd_Emp : INFO : 69 : test_add_emp_003 : UPLOAD THE DISPLAY PROFILE 
+ 2024-04-10 21:53:59,883 : Test_Adddd_Emp : INFO : 73 : test_add_emp_003 : CLICK ON THE SAVE BUTTON 
+ 2024-04-10 21:54:00,966 : Test_Adddd_Emp : INFO : 76 : test_add_emp_003 : CHECKING FOR THE SUCCESS MESSAGE STATUS 
+ 2024-04-10 21:54:20,982 : Test_Adddd_Emp : INFO : 84 : test_add_emp_003 : TAKING SCREENSHOT 
+ 2024-04-10 21:54:26,275 : Test_searchch_empemp : INFO : 26 : test_search_emp_004 : TESTCASE TEST_SEARCH_EMP_004 IS STARTED 
+ 2024-04-10 21:54:26,276 : Test_searchch_empemp : INFO : 28 : test_search_emp_004 : OPEN THE BROWSER 
+ 2024-04-10 21:54:26,276 : Test_searchch_empemp : INFO : 30 : test_search_emp_004 : MAXI MIZE THE BROWSER 
+ 2024-04-10 21:54:26,276 : Test_searchch_empemp : INFO : 36 : test_search_emp_004 : NAVIGATING TO THE URL 
+ 2024-04-10 21:54:35,109 : Test_searchch_empemp : INFO : 39 : test_search_emp_004 : ENTERING THE USERNAME 
+ 2024-04-10 21:54:35,218 : Test_searchch_empemp : INFO : 42 : test_search_emp_004 : ENTERING THE PASSWORD 
+ 2024-04-10 21:54:35,326 : Test_searchch_empemp : INFO : 45 : test_search_emp_004 : CLICK ON LOGIN BUTTON 
+ 2024-04-10 21:54:35,425 : Test_searchch_empemp : INFO : 50 : test_search_emp_004 : CLCIK ONN THE PIM TAB 
+ 2024-04-10 21:54:38,307 : Test_searchch_empemp : INFO : 55 : test_search_emp_004 : SEARCHIN FOR EMPLOYEE 
+ 2024-04-10 21:54:38,882 : Test_searchch_empemp : INFO : 58 : test_search_emp_004 : CLCIK ON THE SEARCH BUTTON 
+ 2024-04-10 21:54:41,959 : Test_searchch_empemp : INFO : 65 : test_search_emp_004 : CHECKING FOR THE STATUS 
+ 2024-04-10 21:54:42,143 : Test_searchch_empemp : INFO : 68 : test_search_emp_004 : DETAILS OF EMPLOYEE ARE PRINTED 
+ 2024-04-10 21:54:42,143 : Test_searchch_empemp : INFO : 69 : test_search_emp_004 : TAKING THE SCREENSHOT 
+ 2024-04-10 21:54:42,143 : Test_searchch_empemp : INFO : 70 : test_search_emp_004 : TEST CASE IS PASSED 
+ 2024-04-10 21:54:42,291 : Test_searchch_empemp : INFO : 82 : test_search_emp_004 : TESTCASE TEST_SEARCH_EMP_004 IS COMPLETED 
+ 2024-04-10 21:55:02,907 : Test_Adddd_Emp : INFO : 25 : test_add_emp_003 : TEST CASE ADD_EMPL_003 IS STARTED 
+ 2024-04-10 21:55:02,908 : Test_Adddd_Emp : INFO : 27 : test_add_emp_003 : OPENING THE BROWSER 
+ 2024-04-10 21:55:02,908 : Test_Adddd_Emp : INFO : 29 : test_add_emp_003 : MAXIMIZING THE BROWSER 
+ 2024-04-10 21:55:02,909 : Test_Adddd_Emp : INFO : 35 : test_add_emp_003 : NAVIGATING TO THE RESPECTED URL 
+ 2024-04-10 21:55:03,010 : Test_ohrmpro : INFO : 57 : test_login_002 : TEST CASE LOGIN_002 IS STARTED 
+ 2024-04-10 21:55:03,011 : Test_ohrmpro : INFO : 59 : test_login_002 : OPENING THE BROWSER 
+ 2024-04-10 21:55:03,011 : Test_ohrmpro : INFO : 61 : test_login_002 : MAXIMIZE THE WINDOW 
+ 2024-04-10 21:55:03,011 : Test_ohrmpro : INFO : 67 : test_login_002 : NAVIGATING TO THE URL 
+ 2024-04-10 21:55:03,182 : Test_ohrmpro : INFO : 21 : test_page_title_001 : TEST CASE PAGE_TITLE_001 IS STARTED 
+ 2024-04-10 21:55:03,182 : Test_ohrmpro : INFO : 23 : test_page_title_001 : MAXIMIZE THE BROWSER 
+ 2024-04-10 21:55:03,183 : Test_ohrmpro : INFO : 29 : test_page_title_001 : NAVIGATING TO THE URL 
+ 2024-04-10 21:55:06,233 : Test_ohrmpro : INFO : 70 : test_login_002 : ENTER THE USERNAME 
+ 2024-04-10 21:55:06,233 : Test_ohrmpro : INFO : 71 : test_login_002 : USERNAME ENTERED= Admin 
+ 2024-04-10 21:55:10,704 : Test_ohrmpro : INFO : 32 : test_page_title_001 : CHECKING THE TITLE OF THE PAGE 
+ 2024-04-10 21:55:10,714 : Test_ohrmpro : INFO : 33 : test_page_title_001 : TITLE OF THE PAGE= OrangeHRM 
+ 2024-04-10 21:55:10,719 : Test_ohrmpro : INFO : 35 : test_page_title_001 : TAKING THE SCREENSHOT 
+ 2024-04-10 21:55:11,031 : Test_ohrmpro : INFO : 40 : test_page_title_001 : CLOSING THE BROWSER 
+ 2024-04-10 21:55:11,145 : Test_ohrmpro : INFO : 53 : test_page_title_001 : TEST CASE PAGE_TITLE_001 IS COMPLETED 
+ 2024-04-10 21:55:14,017 : Test_ohrmpro : INFO : 74 : test_login_002 : ENTER THE PASSWORD 
+ 2024-04-10 21:55:14,017 : Test_ohrmpro : INFO : 75 : test_login_002 : PASSWORD ENTERED= admin123 
+ 2024-04-10 21:55:14,161 : Test_ohrmpro : INFO : 78 : test_login_002 : CLICK ON THE LOGIN BUTTON 
+ 2024-04-10 21:55:14,652 : Test_Adddd_Emp : INFO : 38 : test_add_emp_003 : ENTERING THE USERNAME 
+ 2024-04-10 21:55:14,826 : Test_Adddd_Emp : INFO : 41 : test_add_emp_003 : ENTERING THE PASSWORD 
+ 2024-04-10 21:55:14,964 : Test_Adddd_Emp : INFO : 44 : test_add_emp_003 : CLICK ON THE LOGIN BUTTON 
+ 2024-04-10 21:55:15,062 : Test_Adddd_Emp : INFO : 49 : test_add_emp_003 : CLICK ON THE PIM TAB 
+ 2024-04-10 21:55:15,769 : Test_ohrmpro : INFO : 81 : test_login_002 : CHECKING FOR THE STATUS 
+ 2024-04-10 21:55:16,686 : Test_ohrmpro : INFO : 85 : test_login_002 : TAKING THE SCREENSHOT 
+ 2024-04-10 21:55:17,634 : Test_ohrmpro : INFO : 91 : test_login_002 : CLCIK ON THE MENU BUTTON 
+ 2024-04-10 21:55:17,989 : Test_ohrmpro : INFO : 94 : test_login_002 : CLICK ON THE LOGOUT BUTTON 
+ 2024-04-10 21:55:18,418 : Test_Adddd_Emp : INFO : 52 : test_add_emp_003 : CLICk ON THE ADD BUTTON 
+ 2024-04-10 21:55:18,887 : Test_ohrmpro : INFO : 97 : test_login_002 : CLOSE THE BROWSER 
+ 2024-04-10 21:55:19,148 : Test_ohrmpro : INFO : 113 : test_login_002 : TEST CASE LOGIN_002 IS COMPLETED 
+ 2024-04-10 21:55:19,847 : Test_Adddd_Emp : INFO : 55 : test_add_emp_003 : ENTERING FIRST NAME 
+ 2024-04-10 21:55:20,415 : Test_Adddd_Emp : INFO : 58 : test_add_emp_003 : ENTERING MIDDLE NAME 
+ 2024-04-10 21:55:20,513 : Test_Adddd_Emp : INFO : 61 : test_add_emp_003 : ENTERING THE LAST NAME 
+ 2024-04-10 21:55:20,614 : Test_Adddd_Emp : INFO : 64 : test_add_emp_003 : DISPLAY EMPLOYEE ID 
+ 2024-04-10 21:55:22,644 : Test_Adddd_Emp : INFO : 69 : test_add_emp_003 : UPLOAD THE DISPLAY PROFILE 
+ 2024-04-10 21:55:32,762 : Test_Adddd_Emp : INFO : 73 : test_add_emp_003 : CLICK ON THE SAVE BUTTON 
+ 2024-04-10 21:55:33,838 : Test_Adddd_Emp : INFO : 76 : test_add_emp_003 : CHECKING FOR THE SUCCESS MESSAGE STATUS 
+ 2024-04-10 21:55:53,845 : Test_Adddd_Emp : INFO : 84 : test_add_emp_003 : TAKING SCREENSHOT 
+ 2024-04-10 21:55:59,353 : Test_searchch_empemp : INFO : 26 : test_search_emp_004 : TESTCASE TEST_SEARCH_EMP_004 IS STARTED 
+ 2024-04-10 21:55:59,354 : Test_searchch_empemp : INFO : 28 : test_search_emp_004 : OPEN THE BROWSER 
+ 2024-04-10 21:55:59,354 : Test_searchch_empemp : INFO : 30 : test_search_emp_004 : MAXI MIZE THE BROWSER 
+ 2024-04-10 21:55:59,354 : Test_searchch_empemp : INFO : 36 : test_search_emp_004 : NAVIGATING TO THE URL 
+ 2024-04-10 21:56:07,618 : Test_searchch_empemp : INFO : 39 : test_search_emp_004 : ENTERING THE USERNAME 
+ 2024-04-10 21:56:07,775 : Test_searchch_empemp : INFO : 42 : test_search_emp_004 : ENTERING THE PASSWORD 
+ 2024-04-10 21:56:07,915 : Test_searchch_empemp : INFO : 45 : test_search_emp_004 : CLICK ON LOGIN BUTTON 
+ 2024-04-10 21:56:09,349 : Test_searchch_empemp : INFO : 50 : test_search_emp_004 : CLCIK ONN THE PIM TAB 
+ 2024-04-10 21:56:11,695 : Test_searchch_empemp : INFO : 55 : test_search_emp_004 : SEARCHIN FOR EMPLOYEE 
+ 2024-04-10 21:56:12,303 : Test_searchch_empemp : INFO : 58 : test_search_emp_004 : CLCIK ON THE SEARCH BUTTON 
+ 2024-04-10 21:56:15,387 : Test_searchch_empemp : INFO : 65 : test_search_emp_004 : CHECKING FOR THE STATUS 
+ 2024-04-10 21:56:15,550 : Test_searchch_empemp : INFO : 68 : test_search_emp_004 : DETAILS OF EMPLOYEE ARE PRINTED 
+ 2024-04-10 21:56:15,550 : Test_searchch_empemp : INFO : 69 : test_search_emp_004 : TAKING THE SCREENSHOT 
+ 2024-04-10 21:56:15,550 : Test_searchch_empemp : INFO : 70 : test_search_emp_004 : TEST CASE IS PASSED 
+ 2024-04-10 21:56:15,678 : Test_searchch_empemp : INFO : 82 : test_search_emp_004 : TESTCASE TEST_SEARCH_EMP_004 IS COMPLETED 
+ 2024-04-10 21:56:35,345 : Test_Adddd_Emp : INFO : 25 : test_add_emp_003 : TEST CASE ADD_EMPL_003 IS STARTED 
+ 2024-04-10 21:56:35,346 : Test_Adddd_Emp : INFO : 27 : test_add_emp_003 : OPENING THE BROWSER 
+ 2024-04-10 21:56:35,346 : Test_Adddd_Emp : INFO : 29 : test_add_emp_003 : MAXIMIZING THE BROWSER 
+ 2024-04-10 21:56:35,346 : Test_Adddd_Emp : INFO : 35 : test_add_emp_003 : NAVIGATING TO THE RESPECTED URL 
+ 2024-04-10 21:56:35,445 : Test_ohrmpro : INFO : 21 : test_page_title_001 : TEST CASE PAGE_TITLE_001 IS STARTED 
+ 2024-04-10 21:56:35,446 : Test_ohrmpro : INFO : 23 : test_page_title_001 : MAXIMIZE THE BROWSER 
+ 2024-04-10 21:56:35,446 : Test_ohrmpro : INFO : 29 : test_page_title_001 : NAVIGATING TO THE URL 
+ 2024-04-10 21:56:36,148 : Test_ohrmpro : INFO : 57 : test_login_002 : TEST CASE LOGIN_002 IS STARTED 
+ 2024-04-10 21:56:36,148 : Test_ohrmpro : INFO : 59 : test_login_002 : OPENING THE BROWSER 
+ 2024-04-10 21:56:36,148 : Test_ohrmpro : INFO : 61 : test_login_002 : MAXIMIZE THE WINDOW 
+ 2024-04-10 21:56:36,149 : Test_ohrmpro : INFO : 67 : test_login_002 : NAVIGATING TO THE URL 
+ 2024-04-10 21:56:46,579 : Test_Adddd_Emp : INFO : 38 : test_add_emp_003 : ENTERING THE USERNAME 
+ 2024-04-10 21:56:46,732 : Test_Adddd_Emp : INFO : 41 : test_add_emp_003 : ENTERING THE PASSWORD 
+ 2024-04-10 21:56:46,881 : Test_Adddd_Emp : INFO : 44 : test_add_emp_003 : CLICK ON THE LOGIN BUTTON 
+ 2024-04-10 21:56:46,987 : Test_Adddd_Emp : INFO : 49 : test_add_emp_003 : CLICK ON THE PIM TAB 
+ 2024-04-10 21:56:47,269 : Test_ohrmpro : INFO : 70 : test_login_002 : ENTER THE USERNAME 
+ 2024-04-10 21:56:47,269 : Test_ohrmpro : INFO : 71 : test_login_002 : USERNAME ENTERED= Admin 
+ 2024-04-10 21:56:47,455 : Test_ohrmpro : INFO : 74 : test_login_002 : ENTER THE PASSWORD 
+ 2024-04-10 21:56:47,456 : Test_ohrmpro : INFO : 75 : test_login_002 : PASSWORD ENTERED= admin123 
+ 2024-04-10 21:56:47,579 : Test_ohrmpro : INFO : 78 : test_login_002 : CLICK ON THE LOGIN BUTTON 
+ 2024-04-10 21:56:49,071 : Test_ohrmpro : INFO : 81 : test_login_002 : CHECKING FOR THE STATUS 
+ 2024-04-10 21:56:50,360 : Test_ohrmpro : INFO : 85 : test_login_002 : TAKING THE SCREENSHOT 
+ 2024-04-10 21:56:51,024 : Test_Adddd_Emp : INFO : 52 : test_add_emp_003 : CLICk ON THE ADD BUTTON 
+ 2024-04-10 21:56:51,088 : Test_ohrmpro : INFO : 91 : test_login_002 : CLCIK ON THE MENU BUTTON 
+ 2024-04-10 21:56:51,256 : Test_ohrmpro : INFO : 94 : test_login_002 : CLICK ON THE LOGOUT BUTTON 
+ 2024-04-10 21:56:52,319 : Test_ohrmpro : INFO : 32 : test_page_title_001 : CHECKING THE TITLE OF THE PAGE 
+ 2024-04-10 21:56:52,424 : Test_ohrmpro : INFO : 33 : test_page_title_001 : TITLE OF THE PAGE= OrangeHRM 
+ 2024-04-10 21:56:52,442 : Test_ohrmpro : INFO : 35 : test_page_title_001 : TAKING THE SCREENSHOT 
+ 2024-04-10 21:56:52,449 : Test_ohrmpro : INFO : 97 : test_login_002 : CLOSE THE BROWSER 
+ 2024-04-10 21:56:52,741 : Test_Adddd_Emp : INFO : 55 : test_add_emp_003 : ENTERING FIRST NAME 
+ 2024-04-10 21:56:52,851 : Test_ohrmpro : INFO : 113 : test_login_002 : TEST CASE LOGIN_002 IS COMPLETED 
+ 2024-04-10 21:56:52,987 : Test_ohrmpro : INFO : 40 : test_page_title_001 : CLOSING THE BROWSER 
+ 2024-04-10 21:56:53,367 : Test_ohrmpro : INFO : 53 : test_page_title_001 : TEST CASE PAGE_TITLE_001 IS COMPLETED 
+ 2024-04-10 21:56:53,456 : Test_Adddd_Emp : INFO : 58 : test_add_emp_003 : ENTERING MIDDLE NAME 
+ 2024-04-10 21:56:53,587 : Test_Adddd_Emp : INFO : 61 : test_add_emp_003 : ENTERING THE LAST NAME 
+ 2024-04-10 21:56:53,729 : Test_Adddd_Emp : INFO : 64 : test_add_emp_003 : DISPLAY EMPLOYEE ID 
+ 2024-04-10 21:56:55,777 : Test_Adddd_Emp : INFO : 69 : test_add_emp_003 : UPLOAD THE DISPLAY PROFILE 
+ 2024-04-10 21:57:05,884 : Test_Adddd_Emp : INFO : 73 : test_add_emp_003 : CLICK ON THE SAVE BUTTON 
+ 2024-04-10 21:57:06,978 : Test_Adddd_Emp : INFO : 76 : test_add_emp_003 : CHECKING FOR THE SUCCESS MESSAGE STATUS 
+ 2024-04-10 21:57:27,037 : Test_Adddd_Emp : INFO : 84 : test_add_emp_003 : TAKING SCREENSHOT 
+ 2024-04-10 21:57:32,726 : Test_searchch_empemp : INFO : 26 : test_search_emp_004 : TESTCASE TEST_SEARCH_EMP_004 IS STARTED 
+ 2024-04-10 21:57:32,726 : Test_searchch_empemp : INFO : 28 : test_search_emp_004 : OPEN THE BROWSER 
+ 2024-04-10 21:57:32,726 : Test_searchch_empemp : INFO : 30 : test_search_emp_004 : MAXI MIZE THE BROWSER 
+ 2024-04-10 21:57:32,727 : Test_searchch_empemp : INFO : 36 : test_search_emp_004 : NAVIGATING TO THE URL 
+ 2024-04-10 21:57:42,896 : Test_searchch_empemp : INFO : 39 : test_search_emp_004 : ENTERING THE USERNAME 
+ 2024-04-10 21:57:43,168 : Test_searchch_empemp : INFO : 42 : test_search_emp_004 : ENTERING THE PASSWORD 
+ 2024-04-10 21:57:43,298 : Test_searchch_empemp : INFO : 45 : test_search_emp_004 : CLICK ON LOGIN BUTTON 
+ 2024-04-10 21:57:43,446 : Test_searchch_empemp : INFO : 50 : test_search_emp_004 : CLCIK ONN THE PIM TAB 
+ 2024-04-10 21:57:47,064 : Test_searchch_empemp : INFO : 55 : test_search_emp_004 : SEARCHIN FOR EMPLOYEE 
+ 2024-04-10 21:57:47,769 : Test_searchch_empemp : INFO : 58 : test_search_emp_004 : CLCIK ON THE SEARCH BUTTON 
+ 2024-04-10 21:57:50,874 : Test_searchch_empemp : INFO : 65 : test_search_emp_004 : CHECKING FOR THE STATUS 
+ 2024-04-10 21:57:51,082 : Test_searchch_empemp : INFO : 68 : test_search_emp_004 : DETAILS OF EMPLOYEE ARE PRINTED 
+ 2024-04-10 21:57:51,082 : Test_searchch_empemp : INFO : 69 : test_search_emp_004 : TAKING THE SCREENSHOT 
+ 2024-04-10 21:57:51,083 : Test_searchch_empemp : INFO : 70 : test_search_emp_004 : TEST CASE IS PASSED 
+ 2024-04-10 21:57:51,215 : Test_searchch_empemp : INFO : 82 : test_search_emp_004 : TESTCASE TEST_SEARCH_EMP_004 IS COMPLETED 
+ 2024-04-10 21:59:08,142 : Test_Adddd_Emp : INFO : 25 : test_add_emp_003 : TEST CASE ADD_EMPL_003 IS STARTED 
+ 2024-04-10 21:59:08,142 : Test_Adddd_Emp : INFO : 27 : test_add_emp_003 : OPENING THE BROWSER 
+ 2024-04-10 21:59:08,142 : Test_Adddd_Emp : INFO : 29 : test_add_emp_003 : MAXIMIZING THE BROWSER 
+ 2024-04-10 21:59:08,143 : Test_Adddd_Emp : INFO : 35 : test_add_emp_003 : NAVIGATING TO THE RESPECTED URL 
+ 2024-04-10 21:59:08,847 : Test_ohrmpro : INFO : 57 : test_login_002 : TEST CASE LOGIN_002 IS STARTED 
+ 2024-04-10 21:59:08,847 : Test_ohrmpro : INFO : 59 : test_login_002 : OPENING THE BROWSER 
+ 2024-04-10 21:59:08,847 : Test_ohrmpro : INFO : 61 : test_login_002 : MAXIMIZE THE WINDOW 
+ 2024-04-10 21:59:08,847 : Test_ohrmpro : INFO : 67 : test_login_002 : NAVIGATING TO THE URL 
+ 2024-04-10 21:59:09,292 : Test_ohrmpro : INFO : 21 : test_page_title_001 : TEST CASE PAGE_TITLE_001 IS STARTED 
+ 2024-04-10 21:59:09,293 : Test_ohrmpro : INFO : 23 : test_page_title_001 : MAXIMIZE THE BROWSER 
+ 2024-04-10 21:59:09,293 : Test_ohrmpro : INFO : 29 : test_page_title_001 : NAVIGATING TO THE URL 
+ 2024-04-10 21:59:16,907 : Test_ohrmpro : INFO : 32 : test_page_title_001 : CHECKING THE TITLE OF THE PAGE 
+ 2024-04-10 21:59:16,914 : Test_ohrmpro : INFO : 33 : test_page_title_001 : TITLE OF THE PAGE= OrangeHRM 
+ 2024-04-10 21:59:16,920 : Test_ohrmpro : INFO : 35 : test_page_title_001 : TAKING THE SCREENSHOT 
+ 2024-04-10 21:59:18,282 : Test_Adddd_Emp : INFO : 38 : test_add_emp_003 : ENTERING THE USERNAME 
+ 2024-04-10 21:59:18,528 : Test_ohrmpro : INFO : 40 : test_page_title_001 : CLOSING THE BROWSER 
+ 2024-04-10 21:59:20,140 : Test_Adddd_Emp : INFO : 41 : test_add_emp_003 : ENTERING THE PASSWORD 
+ 2024-04-10 21:59:20,343 : Test_Adddd_Emp : INFO : 44 : test_add_emp_003 : CLICK ON THE LOGIN BUTTON 
+ 2024-04-10 21:59:20,399 : Test_ohrmpro : INFO : 53 : test_page_title_001 : TEST CASE PAGE_TITLE_001 IS COMPLETED 
+ 2024-04-10 21:59:20,483 : Test_Adddd_Emp : INFO : 49 : test_add_emp_003 : CLICK ON THE PIM TAB 
+ 2024-04-10 21:59:23,800 : Test_ohrmpro : INFO : 70 : test_login_002 : ENTER THE USERNAME 
+ 2024-04-10 21:59:23,800 : Test_ohrmpro : INFO : 71 : test_login_002 : USERNAME ENTERED= Admin 
+ 2024-04-10 21:59:24,057 : Test_Adddd_Emp : INFO : 52 : test_add_emp_003 : CLICk ON THE ADD BUTTON 
+ 2024-04-10 21:59:24,090 : Test_ohrmpro : INFO : 74 : test_login_002 : ENTER THE PASSWORD 
+ 2024-04-10 21:59:24,090 : Test_ohrmpro : INFO : 75 : test_login_002 : PASSWORD ENTERED= admin123 
+ 2024-04-10 21:59:24,211 : Test_ohrmpro : INFO : 78 : test_login_002 : CLICK ON THE LOGIN BUTTON 
+ 2024-04-10 21:59:25,562 : Test_Adddd_Emp : INFO : 55 : test_add_emp_003 : ENTERING FIRST NAME 
+ 2024-04-10 21:59:26,162 : Test_Adddd_Emp : INFO : 58 : test_add_emp_003 : ENTERING MIDDLE NAME 
+ 2024-04-10 21:59:26,277 : Test_Adddd_Emp : INFO : 61 : test_add_emp_003 : ENTERING THE LAST NAME 
+ 2024-04-10 21:59:26,435 : Test_Adddd_Emp : INFO : 64 : test_add_emp_003 : DISPLAY EMPLOYEE ID 
+ 2024-04-10 21:59:27,233 : Test_ohrmpro : INFO : 81 : test_login_002 : CHECKING FOR THE STATUS 
+ 2024-04-10 21:59:27,816 : Test_ohrmpro : INFO : 85 : test_login_002 : TAKING THE SCREENSHOT 
+ 2024-04-10 21:59:28,473 : Test_Adddd_Emp : INFO : 69 : test_add_emp_003 : UPLOAD THE DISPLAY PROFILE 
+ 2024-04-10 21:59:28,587 : Test_ohrmpro : INFO : 91 : test_login_002 : CLCIK ON THE MENU BUTTON 
+ 2024-04-10 21:59:28,749 : Test_ohrmpro : INFO : 94 : test_login_002 : CLICK ON THE LOGOUT BUTTON 
+ 2024-04-10 21:59:30,291 : Test_ohrmpro : INFO : 97 : test_login_002 : CLOSE THE BROWSER 
+ 2024-04-10 21:59:30,404 : Test_ohrmpro : INFO : 113 : test_login_002 : TEST CASE LOGIN_002 IS COMPLETED 
+ 2024-04-10 21:59:38,629 : Test_Adddd_Emp : INFO : 73 : test_add_emp_003 : CLICK ON THE SAVE BUTTON 
+ 2024-04-10 21:59:39,723 : Test_Adddd_Emp : INFO : 76 : test_add_emp_003 : CHECKING FOR THE SUCCESS MESSAGE STATUS 
+ 2024-04-10 21:59:40,359 : Test_Adddd_Emp : INFO : 78 : test_add_emp_003 : TAKING SCREENSHOT 
+ 2024-04-10 21:59:40,649 : Test_Adddd_Emp : INFO : 89 : test_add_emp_003 : TEST CASE ADD_EMP_003 IS COMPLETED 
+ 2024-04-10 21:59:45,327 : Test_searchch_empemp : INFO : 26 : test_search_emp_004 : TESTCASE TEST_SEARCH_EMP_004 IS STARTED 
+ 2024-04-10 21:59:45,327 : Test_searchch_empemp : INFO : 28 : test_search_emp_004 : OPEN THE BROWSER 
+ 2024-04-10 21:59:45,327 : Test_searchch_empemp : INFO : 30 : test_search_emp_004 : MAXI MIZE THE BROWSER 
+ 2024-04-10 21:59:45,327 : Test_searchch_empemp : INFO : 36 : test_search_emp_004 : NAVIGATING TO THE URL 
+ 2024-04-10 21:59:48,050 : Test_searchch_empemp : INFO : 39 : test_search_emp_004 : ENTERING THE USERNAME 
+ 2024-04-10 21:59:52,156 : Test_searchch_empemp : INFO : 42 : test_search_emp_004 : ENTERING THE PASSWORD 
+ 2024-04-10 21:59:52,304 : Test_searchch_empemp : INFO : 45 : test_search_emp_004 : CLICK ON LOGIN BUTTON 
+ 2024-04-10 21:59:52,445 : Test_searchch_empemp : INFO : 50 : test_search_emp_004 : CLCIK ONN THE PIM TAB 
+ 2024-04-10 21:59:55,137 : Test_searchch_empemp : INFO : 55 : test_search_emp_004 : SEARCHIN FOR EMPLOYEE 
+ 2024-04-10 21:59:55,703 : Test_searchch_empemp : INFO : 58 : test_search_emp_004 : CLCIK ON THE SEARCH BUTTON 
+ 2024-04-10 21:59:58,779 : Test_searchch_empemp : INFO : 65 : test_search_emp_004 : CHECKING FOR THE STATUS 
+ 2024-04-10 21:59:58,958 : Test_searchch_empemp : INFO : 68 : test_search_emp_004 : DETAILS OF EMPLOYEE ARE PRINTED 
+ 2024-04-10 21:59:58,958 : Test_searchch_empemp : INFO : 69 : test_search_emp_004 : TAKING THE SCREENSHOT 
+ 2024-04-10 21:59:58,958 : Test_searchch_empemp : INFO : 70 : test_search_emp_004 : TEST CASE IS PASSED 
+ 2024-04-10 21:59:59,105 : Test_searchch_empemp : INFO : 82 : test_search_emp_004 : TESTCASE TEST_SEARCH_EMP_004 IS COMPLETED 

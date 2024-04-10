@@ -53,13 +53,13 @@ class Test_Adddd_Emp():
         self.obj2.test_click_add_button() ;
 
         self.log.info("ENTERING FIRST NAME") ;
-        self.obj2.test_ebter_first_name('Virat') ;
+        self.obj2.test_ebter_first_name('Kedar') ;
 
         self.log.info("ENTERING MIDDLE NAME") ;
-        self.obj2.test_enter_middle_name('K') ;
+        self.obj2.test_enter_middle_name('R') ;
 
         self.log.info("ENTERING THE LAST NAME") ;
-        self.obj2.test_enter_last_name('Kohli') ;
+        self.obj2.test_enter_last_name('Jadhav') ;
 
         self.log.info("DISPLAY EMPLOYEE ID") ;
         time.sleep(1) ;

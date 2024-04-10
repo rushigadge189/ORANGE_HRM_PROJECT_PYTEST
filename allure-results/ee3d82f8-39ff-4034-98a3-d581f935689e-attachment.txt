@@ -1,0 +1,8 @@
+[32mINFO    [0m Test_ohrmpro:test_login_hrm_testcase.py:21 TEST CASE PAGE_TITLE_001 IS STARTED
+[32mINFO    [0m Test_ohrmpro:test_login_hrm_testcase.py:23 MAXIMIZE THE BROWSER
+[32mINFO    [0m Test_ohrmpro:test_login_hrm_testcase.py:29 NAVIGATING TO THE URL
+[32mINFO    [0m Test_ohrmpro:test_login_hrm_testcase.py:32 CHECKING THE TITLE OF THE PAGE
+[32mINFO    [0m Test_ohrmpro:test_login_hrm_testcase.py:33 TITLE OF THE PAGE= OrangeHRM
+[32mINFO    [0m Test_ohrmpro:test_login_hrm_testcase.py:35 TAKING THE SCREENSHOT
+[32mINFO    [0m Test_ohrmpro:test_login_hrm_testcase.py:40 CLOSING THE BROWSER
+[32mINFO    [0m Test_ohrmpro:test_login_hrm_testcase.py:53 TEST CASE PAGE_TITLE_001 IS COMPLETED

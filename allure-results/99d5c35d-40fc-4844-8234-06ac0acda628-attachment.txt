@@ -1,0 +1,15 @@
+[32mINFO    [0m Test_ohrmpro:test_login_hrm_testcase.py:57 TEST CASE LOGIN_002 IS STARTED
+[32mINFO    [0m Test_ohrmpro:test_login_hrm_testcase.py:59 OPENING THE BROWSER
+[32mINFO    [0m Test_ohrmpro:test_login_hrm_testcase.py:61 MAXIMIZE THE WINDOW
+[32mINFO    [0m Test_ohrmpro:test_login_hrm_testcase.py:67 NAVIGATING TO THE URL
+[32mINFO    [0m Test_ohrmpro:test_login_hrm_testcase.py:70 ENTER THE USERNAME
+[32mINFO    [0m Test_ohrmpro:test_login_hrm_testcase.py:71 USERNAME ENTERED= Admin
+[32mINFO    [0m Test_ohrmpro:test_login_hrm_testcase.py:74 ENTER THE PASSWORD
+[32mINFO    [0m Test_ohrmpro:test_login_hrm_testcase.py:75 PASSWORD ENTERED= admin123
+[32mINFO    [0m Test_ohrmpro:test_login_hrm_testcase.py:78 CLICK ON THE LOGIN BUTTON
+[32mINFO    [0m Test_ohrmpro:test_login_hrm_testcase.py:81 CHECKING FOR THE STATUS
+[32mINFO    [0m Test_ohrmpro:test_login_hrm_testcase.py:85 TAKING THE SCREENSHOT
+[32mINFO    [0m Test_ohrmpro:test_login_hrm_testcase.py:91 CLCIK ON THE MENU BUTTON
+[32mINFO    [0m Test_ohrmpro:test_login_hrm_testcase.py:94 CLICK ON THE LOGOUT BUTTON
+[32mINFO    [0m Test_ohrmpro:test_login_hrm_testcase.py:97 CLOSE THE BROWSER
+[32mINFO    [0m Test_ohrmpro:test_login_hrm_testcase.py:113 TEST CASE LOGIN_002 IS COMPLETED
